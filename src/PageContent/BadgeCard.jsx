@@ -19,7 +19,7 @@ export default function BadgeCard() {
         pagination={{
           type: 'fraction',
         }}
-        navigation={true}
+        navigation
         modules={[Pagination, Navigation]}
         className="mySwiper"
       >
